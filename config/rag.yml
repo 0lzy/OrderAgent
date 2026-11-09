@@ -1,0 +1,6 @@
+chat_model_name: deepseek-flash
+chat_model_api_key:
+chat_model_url: https://api.deepseek.com
+
+embedding_model_name: qwen3-vl-embedding
+embedding_model_api_key:
